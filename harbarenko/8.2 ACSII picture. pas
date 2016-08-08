@@ -1,0 +1,43 @@
+program prog_8_2_AcsiiArt;
+
+uses 
+	crt;
+	
+begin
+	textcolor(15);
+	writeln('~~~~~~~~INNNNNMMMMMMMD=~~~~~~~~~~~~~~~~~~~~~~~~~I77I$NNNNNNNNNNNNNZ+=~~~~~~~~~~~');
+	writeln('~~~~~~~~=OMNNNMMMMMMMMMM8Z+7$Z$I+~=~~~~~~~~~==???????7ZONNNNNMNMN877?+~~~~~~~~~~');
+	writeln('~~~~~~~~==ZMMNNNNNNMMNNMNDZ$7I???+?++?+++==+?++I??III7ZZDDDNMMNND$?=~~~~~~~~~~~~');
+	writeln('~~~~~~~~~~=INMNMNMMMMNDD8O77II???II??7+7?I+II777I$$$$OOODNMMMMMDZ==+=~~~~~~~~~~~');
+	writeln('~~~~~~~~~==?I8NNNMMMMNN8OZ77II77777I$$I$I7$Z7IZZZZZ$7$888NDNNMMN8?+=~~~~~~~~~~~~');
+	writeln('~~~~~~~~~=++??78NMMMMMNOO$777I7$O$7Z$Z$$ZZOOO7IOOOOZZZOZZDONDD88ZII?=~~~~~~~~~~~');
+	writeln('~~~~~~~~~~~~==I8NMMM8ZZZ$777$$ZO88888OZOOO8O8ZO8OOZZZZZ$$7II7Z$+77+=+~~~~===~~~~');
+	writeln('~~~~~~~~~==?+?=IOD8OD8III7$$OOO88DDNN88DD88D8O8DO8OOOZZZ77IIII7I7+===~=======~~~');
+	writeln('~~~~~~~~~~~~~~=+Z7I??7?II$ZZOOO8DDDNMDDNNNNNDNNDZ8OOOOOO$$777$D?~~~~~===++++==~~');
+	writeln('~~~~~~~~~~~~==$7$O7II?77$OOOOO88O8NNMMNNMMMNOMND88OOO8OOOZ$$$ZZO8$+===+++??++=~~');
+	writeln('~~~~~~~~~~~~~?==8OZ$77$ZOO8888OO8DNNNMMNM88NNMMD88Z888O88OO8Z7$Z$$$?+++?????+==~');
+	writeln('~~~~~~~~~~~~~=?ZZ777$ZOOO8OD8$O8DNNNNMN8ZZOMMMNNND8O888OOOZ8ZZZZ$$$$7???????++=~');
+	writeln('~~~~~~~~~~~~+$$$$$$$OO8888888D88NNNNNMMIO$?OMNDNNNDDD88O88888OOO$ZZO$III?I??+==~');
+	writeln('~~~~~~~~~~~=+$$$$Z$O88DDD88888DDMNNMNMD?I7+7MMNNMD8D88888DNDD88O8ZOO$7I?????+==~');
+	writeln('~~~~~~~~~~~~?7$Z$ZO8DNNDD888888DNNMNNN8~,::~MMNNNDDDDN8OO8NNMNNN888Z$7I?????+==~');
+	writeln('~~~~~~~~~~~=I77$$O8DDNNDO8$ODMNDMDNNNDZ,.,,+NNNNNN7?$II78DNDDNN8OO$Z77??????+==~');
+	writeln('~~~~~~~~~~~=?77$OODNNNNNDOO7?==+7O8DNOO:..,+$NN8OO7I?7ZZ8DNNNNDOOO$III+=+??++=~~');
+	writeln('~~~~~~~~~~~=+?I$$$OD$NNNNDOO$$Z$$Z8NND+~:::~+8NND8OOO8ODNNNNDDD87Z$I???++??+==~~');
+	writeln('~~~~~~~~~~~+???I7$Z8DN$ND888O88O8DDZ7~+:,:,~~=8ND8O8OO88Z8NDDN8OOZ$II?++=?++==~~');
+	writeln('~~~~~~~~~~===???7$ZO8DDN$DDNDDN8OD8O::~::~~~=~~7DDDDNND8DNDNDD8OZ77I??=+??+==~~~');
+	writeln('~~~~~~~~~~~++??I7$ZZODNNNDDINN$8Z$?~=7=?=?+??Z=~??ZZ8NNDDODND7Z$O$I??++???+==~~~');
+	writeln('~~~~~~~~~~==+?+???+ZOODND?8D88$$~~,,:=?I7$OI+~:,,,~=IO8OIDDDO$$$7I?+==++??+==~~~');
+	writeln('~~~~~~~~=~~~=++++?I$OOO8D8Z$77+~:.:,,::~=I=~=::,::::=I?~7OO?+=?$+++==+++??+===~~');
+	writeln('~~~~~~~~=+==~=?????II7ZZ$I+?Z$I:,,:::~=?I=?I+=~:::::~=I$ZO$$$7I?++====~=++++==~~');
+	writeln('~~~~~~~~~++=~~~=+???II7$$Z$Z7$+~::,~=++++=====+~~:,::7+~ZI:++++++==~~~~==++++==~');
+	writeln('~~~~~~~~=++===~~~==++=+++I:ZZ+II~:~+7+~~~=~~~~=I~:,:I$$I$~=+?==~~~~~~~==????++==');
+	writeln('~~~~~~~=7I=~~:~==~~~~=~:=~~+7$7II+=+==~~~~~::~~=+~=I7?+=++===~=~~~~~=~++I????++=');
+	writeln('~~~~~~~?7I?+=:,:~~:~:~~~~::,,~~:=+==?======~~~~~==~~:::~:::::~~:~:~~~==?II????++');
+	writeln('~~~~==?$$I?=:~=~~~=~:~~~~:,,:::,:~~======+===~~~:::,,,,,:::~~=~~+===+?III?II???+');
+	writeln('~~~=?7$$I777+~==~~~,~~~:::::,:,,,,,,:~~~~::::,,:,,,,:,:,::,:~=+==+++?77I7II7I???');
+	writeln('~~~=?7$77I7I?+====~::,:~:=~::::,:,~,,:,,,,,,,,,::,,,,::,,,:,==???I$III7I7?II7I??');
+	writeln('~~=+I7$$$77I?++==??~:~::::,,::::~=~::,:,,,,,,,,::::::::,,,~~77I7I77I???7II777III');
+	writeln('=+?777$777II?=+?+====+~=:~~~:~=?=~:::~=::,:::~:~=~::::,::==I$77777$77II7IIII77II');
+	writeln('=+I7777IIIII+??I??++++===+=+I+===+==??===+?~==:~=~::::,~=+77777$$7$I$7$I?$7$7777');
+	readln;
+end.
